@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mops-out-rescue)(type Legacy)(uri ${KIPRJMOD}/mops-out-rescue.lib)(options "")(descr ""))
+)
